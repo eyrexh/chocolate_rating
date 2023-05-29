@@ -1,10 +1,12 @@
 # Chocolate Rating Predictor
 
 ## Authors:
-    - Robin Dhillon
-    - Lisha Gao
-    - Markus Nam
-    - Eyre Hong
+|Team Members|GitHub Handle|
+|---------------------|-------------|
+|Robin Dhillon|[robindhillon1](https://github.com/robindhillon1)|
+|Lisha Gao|[LishaGG](https://github.com/LishaGG)|
+|Eyre Hong|[eyrexh](https://github.com/eyrexh)|
+|Markus Nam|[markusnam](https://github.com/markusnam)|
 
 This data science project is created for DSCI 522 (Data Science Workflows); a course in the Master of Data Science program at the University of British Columbia.
     
